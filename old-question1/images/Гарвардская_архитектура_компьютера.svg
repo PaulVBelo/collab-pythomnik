@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1512"
+   height="962"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Harvard_architecture-rus-v1_2.svg"
+   inkscape:export-filename="Harvard_architecture-rus-v1_2.pdf"
+   inkscape:export-xdpi="98.4866"
+   inkscape:export-ydpi="98.4866"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title4619">Block diagram of Harvard computer architecture</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.78170478"
+     inkscape:cx="773.30984"
+     inkscape:cy="502.74734"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="979"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true">
+    <sodipodi:guide
+       position="759.87766,628.11436"
+       orientation="1,0"
+       id="guide2852"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="395.28989,486.11702"
+       orientation="0,-1"
+       id="guide2854"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Block diagram of Harvard computer architecture</dc:title>
+        <cc:license
+           rdf:resource="" />
+        <dc:date>2015-01-19</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Wikimedia Foundation</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Wikimedia Foundation</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Hellisp (original PNG raster version); Nessa los (English SVG version); Hydrargyrum (adjust colours and fonts for legibility at reduced sizes)</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-90.362)">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#fbff20;fill-opacity:1;stroke:#979914;stroke-width:1.46548;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 735.00651,689.21206 H 710.1183 l 49.77643,-42.26507 48.39375,42.26507 -24.88822,0.70441 v 84.53014 l 25.57955,1.40883 -49.08508,42.96949 -49.0851,-42.96949 h 23.50554 z"
+       id="path3675" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3677"
+       d="M 736.31899,367.54792 H 713.0792 l 46.47959,-40.62859 45.1885,40.62859 -23.2398,0.67714 v 81.25716 l 23.88534,1.35429 -45.83404,41.30572 -45.83404,-41.30572 h 21.9487 z"
+       style="display:inline;fill:#fbff20;fill-opacity:1;stroke:#979914;stroke-width:1.38843;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#fbff20;fill-opacity:1;stroke:#979914;stroke-width:1.42337;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 446.71678,589.54073 v 23.30013 l -42.58849,-46.60026 42.58849,-45.30582 0.7098,23.30014 h 85.17697 l 1.41961,-23.94736 43.2983,45.95304 -43.2983,45.95304 v -22.00569 z"
+       id="path3679" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3681"
+       d="m 980.06085,589.51547 v 24.21325 l -41.67098,-48.4265 41.67098,-47.08132 0.69451,24.21325 h 83.34194 l 1.3891,-24.88583 42.3654,47.7539 -42.3654,47.75391 v -22.86807 z"
+       style="display:inline;fill:#fbff20;fill-opacity:1;stroke:#979914;stroke-width:1.43528;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect3673"
+       d="M 48.761485,493.19345 H 403.04719 V 641.76492 H 48.761485 Z"
+       style="display:inline;fill:#fffabf;fill-opacity:1;stroke:#e5e0ac;stroke-opacity:1;stroke-width:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="225.79887"
+       y="553.48932"
+       id="text3094"><tspan
+         sodipodi:role="line"
+         x="225.79887"
+         y="553.48932"
+         id="tspan3098"
+         style="font-weight:bold;font-size:48px;line-height:1.1;-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle">Память</tspan><tspan
+         sodipodi:role="line"
+         x="225.79887"
+         y="606.28931"
+         style="font-weight:bold;font-size:48px;line-height:1.1;-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle"
+         id="tspan14072">инструкции</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#73fffb;fill-opacity:1;stroke:#68e5e2;stroke-opacity:1;stroke-width:4;stroke-dasharray:none"
+       d="m 581.02465,821.48633 h 354.2857 V 970.0577 h -354.2857 z"
+       id="path3985" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#2e6664;stroke-opacity:1"
+       x="757.55811"
+       y="912.68213"
+       id="text3082"><tspan
+         sodipodi:role="line"
+         x="757.55811"
+         y="912.68213"
+         id="tspan3086"
+         style="font-weight:bold;font-size:48px;line-height:1.1;-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;stroke:#2e6664;stroke-opacity:1">Ввод/Вывод</tspan></text>
+    <path
+       id="path4002"
+       d="m 581.02465,493.19344 h 354.2857 v 148.5715 h -354.2857 z"
+       style="display:inline;fill:#11ff50;fill-opacity:1;stroke:#10e548;stroke-opacity:1;stroke-width:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3047"
+       y="558.23547"
+       x="758.87061"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:48px;line-height:1.1;-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle"
+         id="tspan3051"
+         y="558.23547"
+         x="758.87061"
+         sodipodi:role="line">Устройство</tspan><tspan
+         style="font-weight:bold;font-size:48px;line-height:1.1;-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle"
+         y="611.03546"
+         x="758.87061"
+         sodipodi:role="line"
+         id="tspan14076">управления</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3987"
+       d="m 1108.9528,493.19345 h 354.2857 v 148.57147 h -354.2857 z"
+       style="display:inline;fill:#d1ffd9;fill-opacity:1;stroke:#bce5c3;stroke-opacity:1;stroke-width:4;stroke-dasharray:none" />
+    <text
+       id="text3064"
+       y="552.61041"
+       x="1284.6543"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#546657;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:48px;line-height:1.1;-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;stroke:#546657;stroke-opacity:1"
+         y="552.61041"
+         x="1284.6543"
+         id="tspan3066"
+         sodipodi:role="line">Память</tspan><tspan
+         style="font-weight:bold;font-size:48px;line-height:1.1;-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;stroke:#546657;stroke-opacity:1"
+         id="tspan3068"
+         y="605.4104"
+         x="1284.6543"
+         sodipodi:role="line">данные</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#ff2766;fill-opacity:1;stroke:#d92158;stroke-width:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 443.73246,172.8412 H 1083.5998 V 322.71253 H 443.73247 Z"
+       id="path3989" />
+    <text
+       id="text3090"
+       y="239.03511"
+       x="759.04645"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:48px;line-height:1.1;-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle"
+         id="tspan3092"
+         y="239.03511"
+         x="759.04645"
+         sodipodi:role="line">Арифметико-логическое</tspan><tspan
+         style="font-weight:bold;font-size:48px;line-height:1.1;-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle"
+         y="291.83511"
+         x="759.04645"
+         sodipodi:role="line"
+         id="tspan14078">устройство</tspan></text>
+  </g>
+</svg>

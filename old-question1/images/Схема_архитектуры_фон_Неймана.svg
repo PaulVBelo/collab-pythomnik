@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="510"
+   height="295"
+   viewBox="0 0 510 295"
+   version="1.1"
+   id="svg3283"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Von_Neumann_Architecture-rus-v1_4.svg"
+   inkscape:export-filename="Von_Neumann_Architecture-rus-v1_4.pdf"
+   inkscape:export-xdpi="98.4866"
+   inkscape:export-ydpi="98.4866"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title5430">Архитектура фон Неймана</title>
+  <sodipodi:namedview
+     id="namedview3285"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8257857"
+     inkscape:cx="144.91545"
+     inkscape:cy="138.01471"
+     inkscape:window-width="1920"
+     inkscape:window-height="979"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3280">
+    <rect
+       x="334.02576"
+       y="156.31603"
+       width="0"
+       height="17.08798"
+       id="rect8825" />
+    <rect
+       x="231.3252"
+       y="257.97913"
+       width="167.30206"
+       height="92.872429"
+       id="rect6994" />
+    <rect
+       x="420.12131"
+       y="103.90159"
+       width="153.64085"
+       height="54.481292"
+       id="rect3333-6-3-0" />
+    <rect
+       x="420.12131"
+       y="103.90159"
+       width="161.80643"
+       height="37.260231"
+       id="rect3333-6-3-5-4" />
+    <rect
+       x="420.12131"
+       y="103.90159"
+       width="177.08932"
+       height="37.260231"
+       id="rect3333-6-3-5" />
+    <rect
+       x="420.12131"
+       y="103.90159"
+       width="156.64931"
+       height="34.625544"
+       id="rect3333-6-3" />
+    <marker
+       style="overflow:visible"
+       id="marker4801-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow5"
+       markerWidth="5.8874264"
+       markerHeight="6.6094756"
+       viewBox="0 0 5.8874262 6.6094758"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path4799-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4801"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow5"
+       markerWidth="5.8874264"
+       markerHeight="6.6094756"
+       viewBox="0 0 5.8874262 6.6094758"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path4799" />
+    </marker>
+    <rect
+       x="420.12131"
+       y="103.90159"
+       width="88.35714"
+       height="63.969555"
+       id="rect3333-6" />
+    <rect
+       x="420.12131"
+       y="103.90159"
+       width="88.35714"
+       height="63.969555"
+       id="rect3333" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       d="M 142.15549,147.05096"
+       id="path2" />
+    <rect
+       style="font-variation-settings:normal;fill:#65a8a1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+       id="rect5273-1"
+       width="218.62283"
+       height="289.41891"
+       x="146.81165"
+       y="3.0879891"
+       rx="0"
+       ry="5.227953" />
+    <rect
+       x="160.15549"
+       y="17.626465"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       width="190"
+       height="165"
+       id="rect6"
+       style="stroke-linejoin:round;stroke-miterlimit:0" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.99951;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect3447"
+       width="90.665382"
+       height="64.73716"
+       x="1.1347227"
+       y="114.52592"
+       rx="10.391918"
+       ry="9.6182165">
+      <title
+         id="title3542">Input device</title>
+    </rect>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect3447-3"
+       width="84.930038"
+       height="65.61087"
+       x="422.84589"
+       y="113.92702"
+       rx="9.7345419"
+       ry="9.7480268">
+      <title
+         id="title3542-6">Input device</title>
+    </rect>
+    <text
+       xml:space="preserve"
+       id="text3331"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3333);display:inline"
+       transform="matrix(0.96766475,0,0,0.97488766,17.176866,31.435178)"
+       x="23.369081"
+       y="0"><tspan
+         x="425.0779"
+         y="115.69919"
+         id="tspan1219">Устройство </tspan><tspan
+         x="438.27448"
+         y="132.36581"
+         id="tspan1221">вывода</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3331-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3333-6);display:inline;stroke:none;stroke-opacity:1"
+       transform="translate(-418.19927,27.440143)"
+       x="21.79682"
+       y="0"><tspan
+         x="425.0779"
+         y="115.69919"
+         id="tspan1223">Устройство </tspan><tspan
+         x="443.69764"
+         y="132.36581"
+         id="tspan1225">ввода</tspan></text>
+    <rect
+       x="160.15549"
+       y="233.48795"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       width="190"
+       height="45"
+       id="rect128" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4801)"
+       d="m 93.74923,149.15165 45.58101,0.4385"
+       id="path4791" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4801-4)"
+       d="m 367.06054,149.10786 47.86211,0.42572"
+       id="path4791-8" />
+    <rect
+       style="font-variation-settings:normal;fill:#f99dcb;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+       id="rect5273"
+       width="158.32182"
+       height="54.715778"
+       x="176.08746"
+       y="49.856003"
+       rx="0"
+       ry="0.98836493" />
+    <text
+       xml:space="preserve"
+       id="text3331-1-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3333-6-3);display:inline;stroke:none;stroke-opacity:1"
+       transform="translate(-243.90863,-42.186424)"
+       x="40.50771"
+       y="0"><tspan
+         x="459.22438"
+         y="115.69919"
+         id="tspan1229"><tspan
+           style="baseline-shift:baseline;opacity:1;vector-effect:none;stop-color:#000000;stop-opacity:1"
+           id="tspan1227">Устройство </tspan></tspan><tspan
+         x="457.59678"
+         y="132.36581"
+         id="tspan1233"><tspan
+           style="baseline-shift:baseline;opacity:1;vector-effect:none;stop-color:#000000;stop-opacity:1"
+           id="tspan1231">управления</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3331-1-2-5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3333-6-3-5);display:inline;stroke:none;stroke-opacity:1"
+       transform="translate(-253.28119,-78.756665)"
+       x="79.325974"
+       y="0"><tspan
+         x="422.42925"
+         y="115.69919"
+         id="tspan1235">Центральный процессор</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3331-1-2-5-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3333-6-3-5-4);display:inline;stroke:none;stroke-opacity:1"
+       transform="translate(-247.77863,142.52571)"
+       x="42.74078"
+       y="0"><tspan
+         x="457.15734"
+         y="115.69919"
+         id="tspan1237">Блок памяти</tspan></text>
+    <rect
+       style="font-variation-settings:normal;fill:#f99dcb;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+       id="rect5273-6"
+       width="158.35045"
+       height="53.300308"
+       x="176.99545"
+       y="118.29239"
+       rx="0"
+       ry="0.96279645" />
+    <text
+       xml:space="preserve"
+       id="text3331-1-2-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3333-6-3-0);display:inline;stroke:none;stroke-opacity:1"
+       transform="translate(-243.06365,16.903725)"
+       x="71.607887"
+       y="0"><tspan
+         x="450.519"
+         y="115.69919"
+         id="tspan1239">Арифметико-</tspan><tspan
+         x="457.08474"
+         y="132.36581"
+         id="tspan1241">логическое </tspan><tspan
+         x="458.43564"
+         y="149.03244"
+         id="tspan1243">устройство</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text6992"
+       style="font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6994);display:inline"
+       transform="translate(0.15548573,-0.01204044)" />
+    <text
+       xml:space="preserve"
+       id="text8823"
+       style="font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect8825);display:inline" />
+    <path
+       d="m 270.1107,184.34345 -0.14822,40.49814"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2.33298"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path970"
+       style="stroke-width:2;stroke-dasharray:none" />
+    <path
+       d="m 269.93159,230.82848 -3.96,-8.02 3.99,2.02 4.01,-1.98 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path972" />
+    <path
+       d="m 242.69395,232.80786 h -1.9101 v -40.72625"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path998"
+       style="stroke-width:2;stroke-dasharray:none" />
+    <path
+       d="m 240.75724,185.66146 4,8 -4,-2 -4,2 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1000" />
+  </g>
+  <metadata
+     id="metadata5428">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Архитектура фон Неймана</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Von Neumann</rdf:li>
+            <rdf:li>computer</rdf:li>
+            <rdf:li>computer architecture</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vadim Plessky</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>Русский</dc:language>
+        <dc:description>В схеме отображена архитектура компьютера фон Неймана. 
+В документе First Draft of a Report on the EDVAC (1945) описывается
+архитектура проекта электронного цифрового компьютера 
+со следующими компонентами:
+ - Процессор с арифметико-логическим блоком и регистрами процессора.
+ - Блок управления, включающий в себя регистр команд и счетчик программ.
+ - Память, в которой хранятся данные и инструкции
+ - Внешнее запоминающее устройство
+ - Механизмы ввода и вывода</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
